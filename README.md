@@ -15,3 +15,9 @@ See following official sites:
 
 It is also useful to refer to the unofficial personal site:
 * ttp://shinsuke789.hatenablog.jp/entry/2014/07/31/123800
+
+# Use JDK, not JRE
+In order to compile a code programmatically, we have to run the version which comes with the JDK.
+See also:
+* http://stackoverflow.com/questions/9403655/javacompiler-returning-null
+* http://www.javadrive.jp/eclipse3/jre/index3.html
